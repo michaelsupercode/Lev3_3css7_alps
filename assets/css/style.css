@@ -42,13 +42,13 @@ section:nth-of-type(1) h1 {
   font-weight: 100;
 }
 section:not(:first-of-type) {
-    margin: 12%
+    margin: 6%
 }
 section:nth-of-type(2) {
     text-align: center;
 }
 section:nth-of-type(2) h2 {
-    margin: 11% 0;
+    margin: 3% 0;
 }
 section:nth-of-type(2) p {
     text-align: center;
@@ -71,7 +71,7 @@ section:nth-of-type(3) h2 {
 }
 section article p {
     text-align: center;
-    margin: 80px 0px 100px 70px;
+    margin: 20px 0px 20px 20px;
 }
 section:nth-of-type(3) p {
 font-size: 12px;
